@@ -9,7 +9,7 @@ A local repository (can clone this one and save locally)
 
 A copy of your url that you use to access this repository (e.g. https://github.com/1tzyyy/improved-chatbot)
 
-Run your localy repository file, see below example of what you will need to type in your code 
+Run your local repository file, see below example of what you will need to type in your code 
 
 (note, use " if you have special characters like a space, otherwise you don't require a " symbol).
 
@@ -50,7 +50,7 @@ The following should initialise if done correctly:
    - Network:      http://xxx.xxx.x.xx:xxxx
 
  ✓ Starting...
- 
+
  ✓ Ready in 2.6s
 
 Open (http://localhost:3000) with your browser to see the result.
