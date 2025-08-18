@@ -1,1 +1,0 @@
-//users will view and interact with this chat ui component
