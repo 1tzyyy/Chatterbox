@@ -1,6 +1,7 @@
 ## Using Git alongside VSC
 (ensure to run git as admin to ensure no other issues arise)
 (don't actually copy the $ as it comes with every line of git automatically)
+
 What you will need - 
 
 A local repository (can clone this one and save locally)
